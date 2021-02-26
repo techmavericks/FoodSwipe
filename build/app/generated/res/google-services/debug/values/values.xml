@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">236784599748-hv4hu72q6juljt51v8t31flihn4634fu.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">236784599748</string>
+    <string name="google_api_key" translatable="false">AIzaSyBXp4MHv58O6Cn84TwhABKNjEfLPNuX46g</string>
+    <string name="google_app_id" translatable="false">1:236784599748:android:5b35afe8d58952801a3f91</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBXp4MHv58O6Cn84TwhABKNjEfLPNuX46g</string>
+    <string name="google_storage_bucket" translatable="false">foodswipe-9e794.appspot.com</string>
+    <string name="project_id" translatable="false">foodswipe-9e794</string>
+</resources>

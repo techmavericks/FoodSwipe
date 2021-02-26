@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\intership\\foodswipe\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-b+es+419\\values-b+es+419.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\e9af16038a856f98b04be2fa8f962a02\\jetified-play-services-wallet-18.0.0\\res\\values-b+es+419\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "208",
+                        "endColumns": "102",
+                        "endOffsets": "310"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "106",
+                        "endOffsets": "157"
+                    }
+                }
+            ]
+        }
+    ]
+}

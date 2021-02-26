@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/vandan/foodswipe/MainActivity.java
+ com.vandan.foodswipe.MainActivity
+com/vandan/foodswipe/BuildConfig.java
+ com.vandan.foodswipe.BuildConfig
